@@ -1,0 +1,6 @@
+a = int(input("Enter the number you want divided: "))
+b = int(input("Divided by?: "))
+print("Your answer is!")
+print(a // b)
+print("With a remainder of!")
+print(a % b)
