@@ -24,3 +24,14 @@ if __name__ == '__main__':
 	b = input("Enter b: ")
 	c = input("Enter c: ")
 	roots(float(a), float(b), float(c))
+'''
+Input a,b and c for the quadratic (ax^2 + bx + c)
+Enter a: 5
+Enter b: 4
+Enter c: 2
+
+D = -24.0
+IMAGINARY ROOTS
+x1 = -0.4 - 0.4898979485566356i
+x1 = -0.4 + 0.48989794855663561
+'''
